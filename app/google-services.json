@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513960779282",
+    "project_id": "social-networking-app-5898b",
+    "storage_bucket": "social-networking-app-5898b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513960779282:android:c6666303081c8dc1dd42cb",
+        "android_client_info": {
+          "package_name": "com.example.socialnetworkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513960779282-47asoqf37ldl3hf6bseg3pgdajclr33t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialnetworkingapp",
+            "certificate_hash": "49b406de8a378b68c216f91c876f74991ead3c9a"
+          }
+        },
+        {
+          "client_id": "513960779282-fh3jlfg5ch6tsnod8lhkcj75r6989fg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtM4OcG50l74luHyODOY65DgOFdKcVMr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513960779282-2alqhgr9i9f519756jruu5mvn6jcmm01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
